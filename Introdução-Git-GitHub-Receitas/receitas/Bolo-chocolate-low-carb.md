@@ -1,5 +1,5 @@
-#Bolo de Chocolate Low Carb
-###Ingredientes
+# Bolo de Chocolate Low Carb
+### Ingredientes
 
  - 4 ovos
  - 2 colheres (sopa) de manteiga
@@ -9,7 +9,7 @@
  - 100 g de farinha de coco ou amêndoas
  - 1 colher (sopa) de fermento em pó
 
-###Modo de Preparo
+### Modo de Preparo
 
  - Bata todos os ingredientes, um a um na sequência, menos o fermento que deve ser inserido no final.
  - Em seguida, despeje a massa em uma forma com furo central untada com manteiga e farinha de coco.
